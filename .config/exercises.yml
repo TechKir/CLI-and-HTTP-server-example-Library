@@ -1,0 +1,4 @@
+exercises:
+    01_Repozytorium: { max_points: 0, disabled: true }
+    '02_Admin CLI': { max_points: 0, disabled: true }
+    '03_Aplikacja HTTP': { max_points: 0, disabled: true }
