@@ -1,0 +1,23 @@
+{
+  "eeb22f81-6b3b-40e7-90cd-b083f4a33838": {
+    "id": "eeb22f81-6b3b-40e7-90cd-b083f4a33838",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "novel",
+    "path": "path/to/file.pdf"
+  },
+  "47867108-10e8-4507-ae57-277f2c1cbbc2": {
+    "id": "47867108-10e8-4507-ae57-277f2c1cbbc2",
+    "title": "another title",
+    "author": "another author",
+    "genre": "science-fiction",
+    "path": "another/path/file.pdf"
+  },
+  "1867a2f1-321e-41dd-83e9-5d81d0b8e7b9": {
+    "id": "f4e4c521-9f4a-4051-817f-012dfc2dd9b4",
+    "title": "Gabi w krainie czarow",
+    "author": "wojtus",
+    "genere": "novel",
+    "path": "nieznana"
+  }
+}
