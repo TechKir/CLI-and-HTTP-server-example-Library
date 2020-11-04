@@ -8,7 +8,9 @@ streams and buffers,
 modules: commander, inquirer for
 building a CLI application
 
-To run app just clone the repository and run it by Node.js on two terminals. One to use CLI like: "node admin-cli a" (to add a book) or "node admin-cli w" (to watch logs). Second is "node client-server" to run the server. Last you have to create your own .env file in src file. For example inside could be config like this:
+To run app just clone the repository and run it by Node.js on two terminals. First to use CLI like: "node admin-cli a" (to add a book) or "node admin-cli w" (to watch logs). Second is "node client-server" to run the server. 
+
+Last you have to create your own .env file in src file. For example inside could be config like this:
 
 NODE_PORT=9000
 
